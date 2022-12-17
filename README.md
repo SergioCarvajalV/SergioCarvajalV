@@ -7,5 +7,6 @@ const SergioCarvajalV = {
   pronouns: "he",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Node, Express],
+  Databases: [MongoDB, MySQL]
 }
 ```
