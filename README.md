@@ -1,5 +1,7 @@
 ### Bienvenido a mi repositorio 👋
 
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Sergio56933490/)](https://twitter.com/Sergio56933490/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-ariel-carvajal-valdes-a4a126247/)](https://www.linkedin.com/in/sergio-ariel-carvajal-valdes-a4a126247/)
 ```js
 const SergioCarvajalV = {
   pronouns: "he" | "him",
@@ -7,18 +9,3 @@ const SergioCarvajalV = {
   tools: [React, Node, Express],
 }
 ```
-
-<!--
-**SergioCarvajalV/SergioCarvajalV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
