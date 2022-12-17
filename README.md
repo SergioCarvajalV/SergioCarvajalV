@@ -6,7 +6,7 @@ const SergioCarvajalV = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Node, Express],
 }
-
+```
 
 <!--
 **SergioCarvajalV/SergioCarvajalV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
